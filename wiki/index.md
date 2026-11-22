@@ -33,7 +33,7 @@ status: verified
 | [C2 聖誕樹](concepts/christmas-tree.md) | 熟悉的習俗一直都存在嗎？ | S2 |
 | [C3 聖誕老人](concepts/santa-claus.md) | 角色如何融合？ | S3 |
 | [C4 Las Posadas](concepts/las-posadas.md) | 地方習俗有何不同？ | S4 |
-| C5 聖誕紅 | 植物如何成為節慶象徵？ | S5，待匯入 |
+| [C5 聖誕紅](concepts/poinsettia.md) | 植物如何成為節慶象徵？ | S5 |
 
 ## 使用原則
 
