@@ -4,6 +4,7 @@
 
 ## 直接瀏覽
 
+- [線上成果首頁](https://peter-owo.github.io/week10hw/)
 - [成果首頁](index.html)
 - [LLM Wiki](wiki.html)／[文字版知識庫](wiki.md)
 - [教學 HTML 簡報](slides.html)
