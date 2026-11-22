@@ -1,5 +1,5 @@
 ---
-id: C1
+id: W1
 type: concept
 title: "聖誕節與 12 月 25 日"
 source_ids: [S1]
@@ -7,7 +7,7 @@ updated: 2026-11-23
 status: verified
 ---
 
-# C1｜聖誕節與 12 月 25 日
+# W1｜聖誕節與 12 月 25 日
 
 ## 問題
 

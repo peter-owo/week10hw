@@ -5,6 +5,7 @@ publisher: "Library of Congress"
 url: "https://www.loc.gov/item/today-in-history/december-25/"
 retrieved: 2026-11-23
 access: "搜尋索引中的館藏摘要；來源網站對自動開啟回傳 403"
+cross_check_url: "https://www.liverpool.ac.uk/history/blog/2023/first-noel/"
 ---
 
 # S1｜節日與 12 月 25 日
@@ -12,6 +13,8 @@ access: "搜尋索引中的館藏摘要；來源網站對自動開啟回傳 403"
 ## 來源紀錄
 
 美國國會圖書館的 *Today in History — December 25*。本次從搜尋索引取得該館頁面的摘要；頁面本身對自動開啟回傳 403，因此以下只採用摘要明確顯示的敘述，不宣稱讀到了完整頁面。
+
+**交叉查核**：[利物浦大學歷史系 Dr. Robin Whelan〈The First Noël〉](https://www.liverpool.ac.uk/history/blog/2023/first-noel/) 的全文可讀。文章說明《354 年曆》的聖誕節記載，以及該曆法一般被認為可追溯至約 336 年；這支持「四世紀羅馬已有 12 月 25 日的慶祝」，同時提醒確切起源仍有討論。
 
 ## 擷取的事實（自行改寫）
 

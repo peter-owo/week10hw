@@ -21,7 +21,8 @@ status: verified
 
 - 不採用「所有拉丁美洲家庭都參加」的概括。
 - 來源網站對自動開啟回傳 403；本筆記依館方搜尋索引介紹撰寫，未宣稱取得完整頁面。
+- 已用[美國國會圖書館文章](https://blogs.loc.gov/law/2011/12/a-state-mandated-christmas-bonus/)的可讀全文交叉檢查墨西哥 posadas 的九晚安排。
 
 ## 概念連結
 
-[C4｜Las Posadas](../concepts/las-posadas.md)。
+[W4｜Las Posadas](../concepts/las-posadas.md)。

@@ -24,4 +24,4 @@ status: verified
 
 ## 概念連結
 
-[C5｜聖誕紅](../concepts/poinsettia.md)。
+[W5｜聖誕紅](../concepts/poinsettia.md)。

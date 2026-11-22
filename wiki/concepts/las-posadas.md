@@ -1,5 +1,5 @@
 ---
-id: C4
+id: W4
 type: concept
 title: "Las Posadas 與地方文化"
 source_ids: [S4]
@@ -7,7 +7,7 @@ updated: 2026-11-23
 status: verified
 ---
 
-# C4｜Las Posadas 與地方文化
+# W4｜Las Posadas 與地方文化
 
 ## 問題
 

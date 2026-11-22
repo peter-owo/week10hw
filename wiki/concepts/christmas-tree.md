@@ -1,5 +1,5 @@
 ---
-id: C2
+id: W2
 type: concept
 title: "聖誕樹與習俗演變"
 source_ids: [S2]
@@ -7,7 +7,7 @@ updated: 2026-11-23
 status: verified
 ---
 
-# C2｜聖誕樹與習俗演變
+# W2｜聖誕樹與習俗演變
 
 ## 問題
 

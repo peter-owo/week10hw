@@ -1,5 +1,5 @@
 ---
-id: C5
+id: W5
 type: concept
 title: "聖誕紅與文化傳播"
 source_ids: [S5]
@@ -7,7 +7,7 @@ updated: 2026-11-23
 status: verified
 ---
 
-# C5｜聖誕紅與文化傳播
+# W5｜聖誕紅與文化傳播
 
 ## 問題
 

@@ -29,11 +29,11 @@ status: verified
 
 | 概念 | 核心問題 | 來源 |
 |---|---|---|
-| [C1 日期與節日意義](concepts/christmas-date.md) | 聖誕節與 12 月 25 日代表什麼？ | S1 |
-| [C2 聖誕樹](concepts/christmas-tree.md) | 熟悉的習俗一直都存在嗎？ | S2 |
-| [C3 聖誕老人](concepts/santa-claus.md) | 角色如何融合？ | S3 |
-| [C4 Las Posadas](concepts/las-posadas.md) | 地方習俗有何不同？ | S4 |
-| [C5 聖誕紅](concepts/poinsettia.md) | 植物如何成為節慶象徵？ | S5 |
+| [W1 日期與節日意義](concepts/christmas-date.md) | 聖誕節與 12 月 25 日代表什麼？ | S1 |
+| [W2 聖誕樹](concepts/christmas-tree.md) | 熟悉的習俗一直都存在嗎？ | S2 |
+| [W3 聖誕老人](concepts/santa-claus.md) | 角色如何融合？ | S3 |
+| [W4 Las Posadas](concepts/las-posadas.md) | 地方習俗有何不同？ | S4 |
+| [W5 聖誕紅](concepts/poinsettia.md) | 植物如何成為節慶象徵？ | S5 |
 
 ## 使用原則
 

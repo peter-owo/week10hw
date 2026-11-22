@@ -24,4 +24,4 @@ status: verified
 
 ## 概念連結
 
-[C2｜聖誕樹](../concepts/christmas-tree.md)。
+[W2｜聖誕樹](../concepts/christmas-tree.md)。

@@ -1,5 +1,5 @@
 ---
-id: C3
+id: W3
 type: concept
 title: "聖誕老人形象的融合"
 source_ids: [S3]
@@ -7,7 +7,7 @@ updated: 2026-11-23
 status: verified
 ---
 
-# C3｜聖誕老人形象的融合
+# W3｜聖誕老人形象的融合
 
 ## 問題
 

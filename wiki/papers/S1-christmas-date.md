@@ -22,7 +22,8 @@ status: verified
 - 應寫「至遲在 336 年已慶祝」，不能寫「336 年發明聖誕節」。
 - 不採用「耶穌確定出生在 12 月 25 日」；來源未提供此證據。
 - 來源頁對自動開啟回傳 403，本筆記只使用搜尋索引中可見的館藏摘要。這項限制需保留在來源卡。
+- 已用[利物浦大學歷史系文章](https://www.liverpool.ac.uk/history/blog/2023/first-noel/)的可讀全文交叉檢查四世紀羅馬曆法與日期說法；文章同樣保留起源的不確定性。
 
 ## 概念連結
 
-[C1｜日期與節日意義](../concepts/christmas-date.md)。
+[W1｜日期與節日意義](../concepts/christmas-date.md)。

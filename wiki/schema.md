@@ -4,7 +4,7 @@
 
 | 欄位 | 用途 |
 |---|---|
-| `id` | 固定 ID：來源 S1–S5、概念 C1–C5、統整 T1。 |
+| `id` | 固定 ID：來源 S1–S5、概念 W1–W5、統整 T1。 |
 | `type` | `source_note`、`concept`、`synthesis`。 |
 | `title` | 顯示名稱。 |
 | `source_ids` | 支持本文的原始來源 ID 陣列。 |

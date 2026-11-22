@@ -24,4 +24,4 @@ status: verified
 
 ## 概念連結
 
-[C3｜聖誕老人](../concepts/santa-claus.md)。
+[W3｜聖誕老人](../concepts/santa-claus.md)。

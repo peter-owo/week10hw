@@ -1,4 +1,6 @@
-# 聖誕節入門 LLM Wiki
+# 聖誕節入門 LLM Wiki｜單檔閱讀摘要
+
+> **Wiki 本體已改為多檔案架構**：請從 [wiki/index.md](wiki/index.md) 進入；`raw/papers/` 保存五篇來源卡，`wiki/papers/` 保存逐篇閱讀筆記，`wiki/concepts/` 保存 W1–W5 概念頁，`wiki/syntheses/` 和 `wiki/tasks/` 保存簡報大綱、查詢與 QA 紀錄。本檔僅供快速閱讀，不作為唯一知識來源。
 
 > 版本：2026-11-23｜對象：第一次接觸聖誕節文化的讀者｜用途：教學 HTML 簡報的唯一內容知識庫
 
