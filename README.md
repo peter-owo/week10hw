@@ -9,7 +9,6 @@
 - [LLM Wiki 展示頁](wiki.html)／[多檔案 Wiki 入口](wiki/index.md)
 - [教學 HTML 簡報](slides.html)
 - [製作流程與反思](process.html)／[完整紀錄](process.md)
-- [可複製的繳交內容](submission.md)
 
 下載專案後雙擊 `index.html` 即可離線瀏覽；外部來源連結需要網路。簡報可用左右方向鍵、頁面底部按鈕切換，也可透過瀏覽器列印為 PDF。
 
@@ -54,6 +53,3 @@ wiki/tasks/            Wiki 查詢、QA 規格與執行紀錄
 | `wiki/` | 分層、多檔案知識庫 |
 | `wiki.md` | 單檔閱讀摘要 |
 | `process.md` | graph、實際執行、檢查紀錄與反思 |
-| `submission.md` | 線上繳交欄位可用文字 |
-
-作者的學校、學號、系級與姓名尚未提供，因此繳交標題在 `submission.md` 留有待填欄位。
